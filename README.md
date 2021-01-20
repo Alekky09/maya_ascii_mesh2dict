@@ -4,7 +4,6 @@
     
     * Usage in your py code:
     
-    ```python
-    from dictify_maya_meshes import func
-    func.dictify_meshes('/path/to/example/file.ma')
-    ```
+       from dictify_maya_meshes import func
+       func.dictify_meshes('/path/to/example/file.ma')
+
